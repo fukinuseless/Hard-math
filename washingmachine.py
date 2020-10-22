@@ -14,5 +14,7 @@ elif ethan_sucks_wang == "diameter":
   ans2=radius2squared*pi
   print("The area is",ans2)
   print("Ethan sucks bare cock")
+else:
+  print("Ethan sucks bare wang")
 
 
